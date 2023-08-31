@@ -7,7 +7,7 @@
 
 
 ## Potência Tech powered by iFood | Ciência de Dados
-# Desafio: Criando um Sistema Bancário com Python
+# Desafio: Criando e Otimizando um Sistema Bancário com Python
 
  <div align="left"> 
    
