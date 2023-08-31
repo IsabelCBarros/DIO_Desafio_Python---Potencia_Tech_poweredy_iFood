@@ -27,3 +27,8 @@ Essa operação deve listar todos os depósitos e saques realizados na conta. No
 
 
 ![image](https://github.com/IsabelCBarros/Desafio-Python-DIO---Pot-ncia-Tech-powered-by-iFood/assets/100105009/b18685c8-836e-45c4-8653-66e520579a8e)
+
+## Otimizando o Sistema Bancário com funções Python
+
+Criar funções para as operações existentes de saque, depósito e visualizar histórico. 
+Depois, criar duas novas funções: cadastrar usuário (cliente) e cadastrar conta bancária corrente (vinculando com o usuário).
